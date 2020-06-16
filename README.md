@@ -27,19 +27,19 @@
 
 ## :rocket: Desafios
 
-- [Primeiros passos com JavaScript](challenges/imc-js)
+- [First steps with Javascript](challenges/imc-js)
   
-<p align="left">
-  <img alt="Challenge1" src="challenges/image/challenge1-imc"></img>
+<p>
+  <img alt="Challenge1" src="challenges/image/challenge1-imc.png"></img>
 </p>
 
-- [Lidando com objetos e vetores](desafios/01-2-lidando-com-objetos-e-vetores.md)
+- [Dealing with objects and vectors](challenges/)
 
 
-- [Funções e estruturas de repetição](desafios/01-3-funcoes-e-estruturas-de-repeticao.md)
+- [Functions and Repetition Structures](challegens/)
 
 
-- [Aplicação: Operações bancárias](desafios/01-4-aplicacao-operacoes-bancarias.md)
+- [Application: Banking Operations](challenges/)
 
 ## :memo: Licença
 
