@@ -27,19 +27,16 @@
 
 ## :rocket: Challenges
 
-- [First steps with Javascript](challenges/imc-js)
+- [First steps with Javascript](challenges/01-1-first-steps-js.md)
   
-<p>
-  <img alt="Challenge1" src="./challenges/images/challenge1-imc.png"></img>
-</p>
 
-- [Dealing with objects and vectors](challenges/)
+- [Dealing with objects and vectors](./challenges/)
 
 
-- [Functions and Repetition Structures](challegens/)
+- [Functions and Repetition Structures](./challegens/)
 
 
-- [Application: Banking Operations](challenges/)
+- [Application: Banking Operations](./challenges/)
 
 ## :memo: License
 
