@@ -21,11 +21,11 @@
 </p>
 
 <p align="center">
-  <a href="#rocket-desafios">Challenges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">License</a>
+  <a href="#rocket-challenges">Challenges</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
 </p>
 
-## :rocket: Desafios
+## :rocket: Challenges
 
 - [First steps with Javascript](challenges/imc-js)
   
@@ -41,10 +41,10 @@
 
 - [Application: Banking Operations](challenges/)
 
-## :memo: Licença
+## :memo: License
 
 This project is under the MIT license. See the archive [LICENSE](/LICENSE) for more details.
 
 ---
 
-Made by [Wellington Cid](https://linkedin.com/in/wellingtoncid) with Rocketseat support [Rocketseat](https://rocketseat.com.br)
+Made by [Wellington Cid](https://linkedin.com/in/wellingtoncid) with [Rocketseat](https://rocketseat.com.br) support
