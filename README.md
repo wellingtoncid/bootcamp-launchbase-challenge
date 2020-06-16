@@ -30,7 +30,7 @@
 - [First steps with Javascript](challenges/imc-js)
   
 <p>
-  <img alt="Challenge1" src="challenges/image/challenge1-imc.png"></img>
+  <img alt="Challenge1" src="./challenges/image/challenge1-imc.png"></img>
 </p>
 
 - [Dealing with objects and vectors](challenges/)
