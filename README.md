@@ -27,10 +27,10 @@
 
 ## :rocket: Desafios
 
-- [Primeiros passos com JavaScript](desafios/01-1-primeiros-passos-com-js.md)
+- [Primeiros passos com JavaScript](challenges/imc-js)
   
-<p align="center">
-  <img alt="Challenge1" src="image/challenge1-imc"></img>
+<p align="left">
+  <img alt="Challenge1" src="challenges/image/challenge1-imc"></img>
 </p>
 
 - [Lidando com objetos e vetores](desafios/01-2-lidando-com-objetos-e-vetores.md)
