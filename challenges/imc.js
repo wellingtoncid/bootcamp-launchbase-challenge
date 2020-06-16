@@ -1,3 +1,5 @@
+//IMC calculator
+
 const nome = 'Carlos'
 const peso = 90
 const altura = 1.88
@@ -13,3 +15,4 @@ if (imc > 30){
 }
 
 console.log(message)
+
