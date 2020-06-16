@@ -51,20 +51,6 @@ _Obs .: This calculation is fictitious, within retirement there are many other f
   <img alt="Challenge1" src="./challenges/images/challenge1-2-retirement.png"></img>
 </p>
 
-- [First steps with Javascript](challenges/imc-js)
-  
-<p>
-  <img alt="Challenge1" src="./challenges/images/challenge1-imc.png"></img>
-</p>
-
-- [Dealing with objects and vectors](challenges/)
-
-
-- [Functions and Repetition Structures](challegens/)
-
-
-- [Application: Banking Operations](challenges/)
-
 ## :memo: License
 
 This project is under the MIT license. See the archive [LICENSE](/LICENSE) for more details.
