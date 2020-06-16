@@ -29,26 +29,26 @@
 
 Challenges to strengthen some concepts, among them:
 
-- ** Variables **;
-- ** Conditionals **;
-- ** Operators **.
+- **Variables**;
+- **Conditionals**;
+- **Operators**.
 
 ### BMI Calcultation
 
 Create a program to calculate a person's BMI and obesity level.
 
 <p>
-  <img alt="Challenge1" src="./challenges/images/challenge1-imc.png"></img>
+  <img alt="Challenge1-1" src="./images/challenge1-imc.png"></img>
 </p>
 
 
 ### Retirement Calculation
 
 Create a program to calculate a person's retirement.
-_Obs .: This calculation is fictitious, within retirement there are many other factors to be taken into account:) _
+<p>Obs .: This calculation is fictitious, within retirement there are many other factors to be taken into account:)</p>
 
 <p>
-  <img alt="Challenge1" src="./challenges/images/challenge1-2-retirement.png"></img>
+  <img alt="Challenge1-2" src="./images/challenge1-2-retirement.png"></img>
 </p>
 
 ## :memo: License
