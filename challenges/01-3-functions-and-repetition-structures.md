@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Challenges 1-1 - First steaps with JS
+  Challenges 1-3 - Functions and repetition structures
 </h3>
 
 <blockquote align="center">“Completion of the challenges proposed in the Bootcamp LaunchBase”</blockquote>
@@ -29,26 +29,35 @@
 
 Challenges to strengthen some concepts, among them:
 
-- **Variables**;
-- **Conditionals**;
-- **Operators**.
+- **Functions and methods**;
+- **Repetition structures**;
+- **Scopes**.
 
-### BMI Calcultation
+### Users and technologies
 
-Create a program to calculate a person's BMI and obesity level.
+Create a program that stores an array of users (objects), each user has a `nome` and their `tecnologias`
 
 <p>
-  <img alt="Challenge1-1" src="./images/challenge1-1-imc.png"></img>
+  <img alt="Challenge1-3" src="./images/challenge1-3-technologies.png"></img>
 </p>
 
 
-### Retirement Calculation
+### Search for technologies
 
-Create a program to calculate a person's retirement.
-<p>Obs .: This calculation is fictitious, within retirement there are many other factors to be taken into account:)</p>
+Based on the previous challenge, use the same user list built.
+
+Create a function that receives data from a user object and returns IF the user works with CSS or not. This function must return a boolean `true / false`.
 
 <p>
-  <img alt="Challenge1-1" src="./images/challenge1-1-retirement.png"></img>
+  <img alt="Challenge1-3" src="./images/challenge1-3-searchtechnologies.png"></img>
+</p>
+
+### Sum of expenses and revenues
+
+Create a program that calculates the sum of income and expenses of users and at the end returns the balance (`income - expenses`).
+
+<p>
+  <img alt="Challenge1-3" src="./images/challenge1-3-expenses-revenues.png"></img>
 </p>
 
 ## :memo: License

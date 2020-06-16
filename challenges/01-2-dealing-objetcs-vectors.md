@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Challenges 1-1 - First steaps with JS
+  Challenges 1-2 - Dealing with objects and vectors
 </h3>
 
 <blockquote align="center">“Completion of the challenges proposed in the Bootcamp LaunchBase”</blockquote>
@@ -29,26 +29,24 @@
 
 Challenges to strengthen some concepts, among them:
 
-- **Variables**;
-- **Conditionals**;
-- **Operators**.
+- **Objects**;
+- **Vectors**.
 
-### BMI Calcultation
+### Construction and printing objects
 
-Create a program to calculate a person's BMI and obesity level.
+Create a program that stores Rocketseat company data inside an object called `empresa`.
 
 <p>
-  <img alt="Challenge1-1" src="./images/challenge1-1-imc.png"></img>
+  <img alt="Challenge1-2" src="./images/challenge1-2-company.png"></img>
 </p>
 
 
-### Retirement Calculation
+### Vectors and Objects
 
-Create a program to calculate a person's retirement.
-<p>Obs .: This calculation is fictitious, within retirement there are many other factors to be taken into account:)</p>
+Create a program with an object to store data from a programmer such as `name`,`age` and `technologies` that work.
 
 <p>
-  <img alt="Challenge1-1" src="./images/challenge1-1-retirement.png"></img>
+  <img alt="Challenge1-2" src="./images/challenge1-2-programmer.png"></img>
 </p>
 
 ## :memo: License

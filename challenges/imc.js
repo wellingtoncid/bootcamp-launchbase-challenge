@@ -1,4 +1,4 @@
-//IMC calculator
+//IMC calculation
 
 const nome = 'Carlos'
 const peso = 90
