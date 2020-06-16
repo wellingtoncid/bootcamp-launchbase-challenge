@@ -33,7 +33,7 @@
 - [Dealing with objects and vectors](challenges/01-2-dealing-objetcs-vectors.md)
 
 
-- [Functions and Repetition Structures](challegens/01-3-functions-and-repetition-structures.md)
+- [Functions and Repetition Structures](challenges/01-3-functions-and-repetition-structures.md)
 
 
 - [Application: Banking Operations](challenges/01-4   )
