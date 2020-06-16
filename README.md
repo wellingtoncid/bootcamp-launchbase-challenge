@@ -30,13 +30,13 @@
 - [First steps with Javascript](challenges/01-1-first-steps-js.md)
   
 
-- [Dealing with objects and vectors](./challenges/)
+- [Dealing with objects and vectors](challenges/01-2-dealing-objetcs-vectors.md)
 
 
-- [Functions and Repetition Structures](./challegens/)
+- [Functions and Repetition Structures](challegens/01-3-functions-and-repetition-structures.md)
 
 
-- [Application: Banking Operations](./challenges/)
+- [Application: Banking Operations](challenges/01-4   )
 
 ## :memo: License
 
