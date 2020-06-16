@@ -11,7 +11,7 @@
 <p align="center">
 
   <a href="https://linkedin.com/in/wellingtoncid">
-    <img alt="Made by Wellington Cid" src="https://letzco.com.br">
+    <img alt="Made by Wellington Cid" src="https://img.shields.io/badge/made%20by-Wellington%20Cid-%23F8952D">
   </a>
 
   <a href="LICENSE" >
@@ -30,7 +30,7 @@
 - [First steps with Javascript](challenges/imc-js)
   
 <p>
-  <img alt="Challenge1" src="./challenges/image/challenge1-imc.png"></img>
+  <img alt="Challenge1" src="./challenges/images/challenge1-imc.png"></img>
 </p>
 
 - [Dealing with objects and vectors](challenges/)
