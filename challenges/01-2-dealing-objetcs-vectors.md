@@ -36,14 +36,48 @@ Challenges to strengthen some concepts, among them:
 
 Create a program that stores Rocketseat company data inside an object called `empresa`.
 
+```js
+// Contruction and print objetcs
+
+const user = {
+    name: 'Diego',
+    company: {
+        name: 'Rocketseat',
+        color: 'Purple',
+        focus: 'Programming',
+        address: {
+            publicplace: 'Rua Guilherme Gembala',
+            number: 260
+        }
+    }
+}
+
+
+console.log(`The company ${user.company.name} is located in ${user.company.address.publicplace}, ${user.company.address.number}`)
+´´´
 <p>
   <img alt="Challenge1-2" src="./images/challenge1-2-company.png"></img>
 </p>
 
-
 ### Vectors and Objects
 
 Create a program with an object to store data from a programmer such as `name`,`age` and `technologies` that work.
+
+```js
+// vector and objects
+
+const programmer = {
+    name: 'Carlos',
+    age: 32,
+    technologies: [
+        { name: "C++", speciality: "Desktop" },
+        { name: 'Python', speciality: 'Data Science' },
+        { name: "JavaScript", speciality: "Web/Mobile" }
+    ]
+}
+
+console.log(`The user ${programmer.name} is ${programmer.age} years old and uses technology ${programmer.technologies[0].name} with speciality in ${programmer.technologies[0].speciality}`)
+```
 
 <p>
   <img alt="Challenge1-2" src="./images/challenge1-2-programmer.png"></img>
