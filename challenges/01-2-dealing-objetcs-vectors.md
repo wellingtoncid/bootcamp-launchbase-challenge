@@ -34,7 +34,7 @@ Challenges to strengthen some concepts, among them:
 
 ### Construction and printing objects
 
-Create a program that stores Rocketseat company data inside an object called `empresa`.
+Create a program that stores Rocketseat company data inside an object called `company`.
 
 ```js
 // Contruction and print objetcs
@@ -52,9 +52,9 @@ const user = {
     }
 }
 
-
 console.log(`The company ${user.company.name} is located in ${user.company.address.publicplace}, ${user.company.address.number}`)
-´´´
+```
+
 <p>
   <img alt="Challenge1-2" src="./images/challenge1-2-company.png"></img>
 </p>
