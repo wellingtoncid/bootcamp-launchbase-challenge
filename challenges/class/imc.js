@@ -1,17 +1,17 @@
-//IMC calculation
+// BMI calculation
 
-const nome = 'Carlos'
-const peso = 90
-const altura = 1.88
+const name = 'Michely'
+const weight = 73
+const height = 1.63
 
-const imc = peso / (altura * altura)
+const bmi = weight / (height * height)
 
-let message = ""
+let message = ''
 
-if (imc > 30) {
-    message = `${nome}, seu imc é ${imc}, você está acima do peso`
+if (bmi > 25) {
+    message = `${name}, your BMI is ${bmi}, are you overweight. Pay attention!`
 } else {
-    message = `${nome}, seu imc é ${imc}, seu peso está controlado`
+    message = `${name}, your BMI is ${bmi}, your weight is controlled. Very good!`
 }
 
 console.log(message)

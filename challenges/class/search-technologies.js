@@ -1,24 +1,24 @@
 // Users and technologies
 
-const usuarios = [
-    { nome: 'Carlos', tecnologias: ['HTML', 'CSS'] },
-    { nome: 'Jasmine', tecnologias: ['JavaScript', 'CSS'] },
-    { nome: 'Tuane', tecnologias: ['HTML', 'Node.js'] }
+const users = [
+    { name: 'Carlos', technologies: ['HTML', 'CSS'] },
+    { name: 'Jasmine', technologies: ['JavaScript', 'CSS'] },
+    { name: 'Tuane', technologies: ['HTML', 'Node.js'] }
 ];
 
 // Search for technologies
 
-function checaSeUsuarioUsaCSS(usuario) {
-    for (let tecnologia of usuario.tecnologias) {
-        if (tecnologia == 'CSS') return true
+function checkIfUserUseCSS(user) {
+    for (let technology of user.technologies) {
+        if (technology == 'CSS') return true
     }
     return false
 }
 
-for (let i = 0; i < usuarios.length; i++) {
-    const usuarioTrabalhaComCSS = checaSeUsuarioUsaCSS(usuarios[i]);
+for (let i = 0; i < users.length; i++) {
+    const userWorksWithCSS = checkIfUserUseCSS(users[i]);
 
-    if (usuarioTrabalhaComCSS) {
-        console.log(`O usuário ${usuarios[i].nome} trabalha com CSS`);
+    if (userWorksWithCSS) {
+        console.log(`User ${users[i].name} works with CSS`);
     }
 }
