@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Challenges 1-1: First steaps with JS
+  Challenges 1-4: Application: Banking operations
 </h3>
 
 <blockquote align="center">“Completion of the challenges proposed in the Bootcamp LaunchBase”</blockquote>
@@ -29,27 +29,19 @@
 
 Challenges to strengthen some concepts, among them:
 
-- **Variables**;
-- **Conditionals**;
-- **Operators**.
+- **Booleans**;
+- **Organization**;
+- **Standardization**;
+- **Writing**;
 
-### BMI Calcultation
+### Project Banking Operations
 
-Create a program to calculate a person's BMI and obesity level.
-
-<p>
-  <img alt="Challenge1-1" src="./images/challenge1-1-imc.png"></img>
-</p>
-
-
-### Retirement Calculation
-
-Create a program to calculate a person's retirement.
-<p>Obs .: This calculation is fictitious, within retirement there are many other factors to be taken into account:)</p>
+Create a program to perform banking transactions on a user's account.
 
 <p>
-  <img alt="Challenge1-1" src="./images/challenge1-1-retirement.png"></img>
+  <img alt="Challenge1-4" src="./images/challenge1-4-banking-operations.png"></img>
 </p>
+
 
 ## :memo: License
 

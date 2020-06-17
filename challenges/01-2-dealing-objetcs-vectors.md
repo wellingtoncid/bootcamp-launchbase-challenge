@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Challenges 1-2 - Dealing with objects and vectors
+  Challenges 1-2: Dealing with objects and vectors
 </h3>
 
 <blockquote align="center">“Completion of the challenges proposed in the Bootcamp LaunchBase”</blockquote>

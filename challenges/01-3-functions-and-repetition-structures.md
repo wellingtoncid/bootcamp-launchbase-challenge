@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Challenges 1-3 - Functions and repetition structures
+  Challenges 1-3: Functions and repetition structures
 </h3>
 
 <blockquote align="center">“Completion of the challenges proposed in the Bootcamp LaunchBase”</blockquote>
@@ -54,10 +54,10 @@ Create a function that receives data from a user object and returns IF the user 
 
 ### Sum of expenses and revenues
 
-Create a program that calculates the sum of income and expenses of users and at the end returns the balance (`income - expenses`).
+Create a program that calculates the sum of revenues and expenses of users and at the end returns the balance (`revenues - expenses`).
 
 <p>
-  <img alt="Challenge1-3" src="./images/challenge1-3-expenses-revenues.png"></img>
+  <img alt="Challenge1-3" src="./images/challenge1-3-expenses_revenues.png"></img>
 </p>
 
 ## :memo: License
