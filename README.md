@@ -36,7 +36,7 @@
 - [Functions and Repetition Structures](challenges/01-3-functions-and-repetition-structures.md)
 
 
-- [Application: Banking Operations](challenges/01-4   )
+- [Application: Banking Operations](challenges/01-4-banking-operations.md)
 
 ## :memo: License
 
